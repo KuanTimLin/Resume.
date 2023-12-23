@@ -1,4 +1,3 @@
-# Resume.
 
 # Resume
 # 林冠廷 (Tim Lin) 
